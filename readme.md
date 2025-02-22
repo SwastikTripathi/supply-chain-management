@@ -1,10 +1,3 @@
-Below is a complete, detailed project report documenting the entire ETL process—from dataset details to database extraction, transformation, and backup. Every code snippet used (without inline comments) is included followed by an explanation of its output and function.
-
-  
-
----
-
-  
 
 # Project Report: Supply Chain Management and Inventory Forecasting
 
