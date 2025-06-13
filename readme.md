@@ -2,6 +2,11 @@
 # Project Report: Supply Chain Management and Inventory Forecasting
 
   
+## Final Dashboard (in Power BI)
+![alt text](images/dashboard1.png)
+![alt text](images/dashboard2.png)    
+![alt text](images/dashboard3.png)
+
 
 ## 1 Introduction
 
